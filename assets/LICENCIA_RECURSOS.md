@@ -1,0 +1,1 @@
+Sprite original creado por programación para este proyecto. 128 x 160 RGBA; 4 columnas de 32 x 40, filas quieto, caminar, salto y caída. Uso, modificación y redistribución permitidos con el proyecto. Sin imágenes de terceros.
